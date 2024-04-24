@@ -1,0 +1,15 @@
+/Users/abenson/CSharpLearning/KonnichiwaSekai/bin/Debug/net8.0/KonnichiwaSekai
+/Users/abenson/CSharpLearning/KonnichiwaSekai/bin/Debug/net8.0/KonnichiwaSekai.deps.json
+/Users/abenson/CSharpLearning/KonnichiwaSekai/bin/Debug/net8.0/KonnichiwaSekai.runtimeconfig.json
+/Users/abenson/CSharpLearning/KonnichiwaSekai/bin/Debug/net8.0/KonnichiwaSekai.dll
+/Users/abenson/CSharpLearning/KonnichiwaSekai/bin/Debug/net8.0/KonnichiwaSekai.pdb
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.AssemblyInfoInputs.cache
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.AssemblyInfo.cs
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.csproj.CoreCompileInputs.cache
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.sourcelink.json
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.dll
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/refint/KonnichiwaSekai.dll
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.pdb
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/KonnichiwaSekai.genruntimeconfig.cache
+/Users/abenson/CSharpLearning/KonnichiwaSekai/obj/Debug/net8.0/ref/KonnichiwaSekai.dll
