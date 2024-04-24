@@ -1,23 +1,16 @@
-# Overview
+## Overview
 
-{Important!  Do not say in this section that this is.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of your software}
+This software is made to print "Hello, world" in English and in Japanese as two strings each using the C-Sharp method of Console.WriteLine(*string here*).
 
-{Describe your purpose for creating this software.}
+The purpose of creating this software is to refresh skills in programming in C-Sharp, by starting with printing simple strings and utilizing a developer interface that allows debugging of the code based on .NET structuring.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+## Development Environment
 
-[Software Demo Video](http://youtube.link.goes.here)
+This program was created as a Console App in Visual Studio Code with the extensions of .NET, C#, and C# Dev Kit. 
 
-# Development Environment
+The language I used to make this program is C-Sharp with some elements of .NET to run the code by debugging and running it.
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+## Useful Websites
+* [Visual Studio](https://code.visualstudio.com)
+* [YouTube](https://www.youtube.com/)
